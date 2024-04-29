@@ -4,6 +4,6 @@
 
 ### Equipe: 
 - Caio Labes de Castro
-- Bryan Carvalho
+- Brayan Carvalho
 - Lucas Zelleroff
 - Victor Purkott
