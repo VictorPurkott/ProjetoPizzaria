@@ -3,4 +3,4 @@
 ## Projeto disciplinar de um sistema Backend usando dotnet/c#
 
 ### Equipe: 
--Caio Labes de Castro
+- Caio Labes de Castro
