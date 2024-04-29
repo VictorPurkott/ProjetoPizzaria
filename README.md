@@ -1,4 +1,4 @@
-# Projeto Pizzaria
+# Projeto Pizzaria :pizza:
 
 ## Projeto disciplinar de um sistema Backend usando dotnet/c#
 
