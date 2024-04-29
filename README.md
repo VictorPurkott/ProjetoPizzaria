@@ -1,7 +1,6 @@
-## Projeto de API de uma Pizzaria feito em C# e .NET
+# Projeto Pizzaria
 
-### Funcionalidades: Registro, cliente, endereço e item pedido
+## Projeto disciplinar de um sistema Backend usando dotnet/c#
 
-
-
-# Elaborado por: Brayan Carvalho, Caio Labes, Lucas Zelleroff e Victor Purkott!
+### Equipe: 
+-Caio Labes de Castro
